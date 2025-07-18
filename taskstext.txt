@@ -1,0 +1,7 @@
+TASK 1 
+
+İstifadəçidən yaşını soruşan proqram yazın və aşağıdakı şərtlərə əsasən mesaj çap et:
+
+Əgər yaş 18-dən böyükdürsə, ekrana "Boyuksen" cixsın.
+Əgər yaş 18-dən kiçikdirsə, ekrana "Sen hele usaqsan".
+Əgər yaş dəqiq 18-dirsə, ekrana "Gencsen".
